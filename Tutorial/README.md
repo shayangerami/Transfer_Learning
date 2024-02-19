@@ -1,2 +1,2 @@
-# Transfer_Learning
+# Transfer Learning Tutorial
 Transfer Learning
