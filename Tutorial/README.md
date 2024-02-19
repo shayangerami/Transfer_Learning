@@ -10,3 +10,6 @@ Main source of the tutorial:
 [YouTube](https://www.youtube.com/watch?v=LsdxvjLWkIY)
 
 Read More About Mobilenet V2 on [HuggingFace](https://huggingface.co/docs/transformers/model_doc/mobilenet_v2)
+
+
+[Dog vs Cat dataset used](https://www.kaggle.com/datasets/razinw/dog-vs-cat)
