@@ -1,7 +1,7 @@
 # Transfer Learning Tutorial
 
 Using Google's mobilenet_v2 image classification model to practice transfer learning.
-Main method used here is to freeze the last layer of pretraiend model and appending a new layer to tailor it into a specialized classifier.
+Main method used here is to remove the last layer (output layer) and freez the initial layers of pretraiend model and appending a new layer as the output layer to tailor it into a specialized classifier.
 
 Main source of the tutorial: 
 
