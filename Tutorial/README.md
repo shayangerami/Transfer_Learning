@@ -6,4 +6,7 @@ Main method used here is to freeze the last layer of pretraiend model and append
 Main source of the tutorial: 
 
 [GitHub](https://github.com/codebasics/deep-learning-keras-tf-tutorial/blob/master/18_transfer_learning/cnn_transfer_learning.ipynb)
+
 [YouTube](https://www.youtube.com/watch?v=LsdxvjLWkIY)
+
+Read More About Mobilenet V2 on [HuggingFace](https://huggingface.co/docs/transformers/model_doc/mobilenet_v2)
